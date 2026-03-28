@@ -1,3 +1,4 @@
+![Infographic](https://github.com/purandharpolicharla-commits/Digital-Literacy-Project/blob/main/task-1-presentation/Digital%20skills%20for%20students%20infographic.png?raw=true)
 DESCRIPTION:
 I created my digital literacy infographic using Canva because it is simple and easy to design visuals.
 In my infographic, I explained what digital literacy means and why it is important for students. 
