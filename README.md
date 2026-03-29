@@ -6,8 +6,11 @@ It focuses on developing digital awareness, practical skills, and responsible us
 Student Profile:
 
 Name: Policharla Purandhar
+
 Registration Number: 25MIP10020
+
 Program: First-Year, INT MTECH CDS
+
 University: VIT Bhopal University
 
 Project Overview For this project, I took on the role of a Student Digital Ambassador.
@@ -20,18 +23,23 @@ Repository Structure :
 task-1-infographic/
 
 Contains the Digital Literacy Awareness Infographic designed using Canva.
+
 task-2-portfolio/
 
 Contains screenshots and links to my professional digital profiles (GitHub, LinkedIn, Kaggle).
+
 task-3-platforms/
 
 Contains my HackerRank certificates (Python) and screenshots/links to my Google Workspace collaboration task.
+
 task-4-email-etiquette/
 
 Contains drafts of professional emails (extension request, internship inquiry) and a Social Media Do's & Don'ts Checklist.
+
 task-5-cybercrime/
 
 Contains a case study on UPI Payment Fraud and a comprehensive 'Stay Safe Online' cybersecurity checklist.
+
 report/
 
 Contains the final, consolidated Project Report summarizing my findings and reflections across all tasks.
